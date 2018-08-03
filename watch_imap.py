@@ -89,7 +89,7 @@ def beacon(config):
 
 # -------------------------------------------------
 #
-# Utility to read email from Gmail Using Python
+# Utility to read email from IMAP Using Python
 #
 # ------------------------------------------------
 
